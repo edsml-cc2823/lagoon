@@ -1,4 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Bitroll: 
+A payroll application that streamlines payment processing for companies to empoyees. 
+
+## Description:
+Our project, deployed on a blockchain-based stack, provides a company's HR team with a secure and automated payroll application system, aiming to enhance efficiency and alleviate the drawbacks of conventional payroll processes. Information is also securely encrypted by running it on blockchain.
+
+### Link to a front-end prototype:
+https://www.figma.com/file/hTAkSSIj1nTZ00LN6qUUQV/Untitled?type=design&node-id=2%3A9&mode=design&t=07py7ntnDuXnuukJ-1
+
+## Limitations of this project
+Unfortunately due to the lack of time, the front-end of the dApp was unable to be integrated with the backend as of yet. It is our hope that with more time, it would look like the prototype described in the link above.
+
+Hence, the backend only comprises of the file 'bitroll.clar', and other files from the lagoon repo are unchanged.
 
 ## Getting Started
 
